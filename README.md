@@ -1,4 +1,4 @@
-# 01parawit-sung-ngamCoding
+# 02parawit-sung-ngamCoding
 ใช้ในการเรียน วิชาวิทยาการคำนวณ ว31295
 21/05/69
 เรียนเกี่ยวกับคำสั่งprint
