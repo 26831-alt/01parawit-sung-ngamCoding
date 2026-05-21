@@ -1,0 +1,5 @@
+print("My name is ongsa")
+print(" I like Loso. ")
+print("I am a school athlete.")
+print("I am an independent person.")
+print("I am from Cambodia.")
