@@ -188,7 +188,7 @@ def show_course():
 root = tk.Tk()
 
 root.title("โปรแกรมพัฒนาคณิตศาสตร์")
-root.geometry("700x600")
+root.geometry("700x800")
 root.configure(bg="#EAF2F8")
 root.resizable(False, False)
 
